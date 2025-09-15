@@ -6,7 +6,7 @@ int main()
 {
     //Task 0: Create a vector VS of string containing foo bar baz
 
-    ///Task 1: Print the vector
+    //Task 1: Print the vector
 
     //Task 2: Create big string by concatenating all the strings in the vector
     std::string big_string{};
